@@ -1,0 +1,12 @@
+header {
+    background-image: url(/images/4371a5030e717706b8264be1e8d6bdb1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(201, 201, 201);
+}

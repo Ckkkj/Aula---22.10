@@ -1,0 +1,12 @@
+header {
+    background-image: url(/images/wp8103002.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
